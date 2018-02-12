@@ -1,0 +1,248 @@
+/* Portrait tablets and medium desktops */
+@media (min-width: 800px) and (max-width: 1280px) {
+  .calculuslogo {
+            width:40%;
+        }
+        .calculusbtn {
+            margin:0px;
+        }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+   .calculuslogo {
+            width:40%;
+        }
+        .calculusbtn {
+            margin:0px;
+        }
+     .carouselh3 {
+            top:0px;
+        }
+        .carouselp {
+            top:0px;
+        }
+    .carouselbtn {
+                background-color: #ffa00a;
+    padding: 5px 22px 5px 22px;
+    border: 1px solid #ffa00a;
+    border-radius: 7px;
+        }
+    .carousel-indicators{position:absolute;
+        bottom:-3px !important;
+        left:50% !important;
+        z-index:15 !important;
+        width:60% !important;
+        padding-left:0 !important;
+        margin-left:-30% !important;
+        text-align:center !important;
+        list-style:none !important;
+    }
+    .testimonialdata {
+            text-align: justify !important;
+            background-color: #F6F6F6 !important;
+        }
+        .testimonialchevron {
+            float:left !important;
+            font-size: 40px !important;
+            color:#eb9d00 !important;
+        }
+    .owl-theme .owl-nav{margin-top: 0px !important;
+        position: relative !important;
+        float: right !important;
+        top: -178px !important;
+        right: 93px !important;
+    }
+}
+
+/* Portrait tablets and small desktops */
+@media  (min-width:769px) and (max-width: 991px) {
+    .calculuslogo {
+            width:40%;
+        }
+        .calculusbtn {
+            margin:0px;
+        }
+     .carouselh3 {
+            top:0px;
+        }
+        .carouselp {
+            top:0px;
+        }
+    .carouselbtn {
+                background-color: #ffa00a;
+    padding: 5px 22px 5px 22px;
+    border: 1px solid #ffa00a;
+    border-radius: 7px;
+        }
+    .carousel-indicators{position:absolute;
+        bottom:-3px !important;
+        left:50% !important;
+        z-index:15 !important;
+        width:60% !important;
+        padding-left:0 !important;
+        margin-left:-30% !important;
+        text-align:center !important;
+        list-style:none !important;
+    }
+    .testimonialdata {
+            text-align: justify !important;
+            background-color: #F6F6F6 !important;
+        }
+        .testimonialchevron {
+            float:left !important;
+            font-size: 40px !important;
+            color:#eb9d00 !important;
+        }
+    .owl-theme .owl-nav{margin-top: 0px !important;
+        position: relative !important;
+        float: right !important;
+        top: -178px !important;
+        right: 93px !important;
+    }
+}
+
+
+/* Landscape phones and portrait tablets */
+@media (min-width:480px) and (max-width: 768px) {
+  .calculuslogo {
+            width:40%;
+        }
+        .calculusbtn {
+            margin:0px;
+        }
+     .carouselh3 {
+            top:0px;
+        }
+        .carouselp {
+            top:0px;
+        }
+    .carouselbtn {
+                background-color: #ffa00a;
+    padding: 5px 22px 5px 22px;
+    border: 1px solid #ffa00a;
+    border-radius: 7px;
+        }
+    .carousel-indicators{position:absolute;
+        bottom:-3px !important;
+        left:50% !important;
+        z-index:15 !important;
+        width:60% !important;
+        padding-left:0 !important;
+        margin-left:-30% !important;
+        text-align:center !important;
+        list-style:none !important;
+    }
+    .testimonialdata {
+            text-align: justify !important;
+            background-color: #F6F6F6 !important;
+        }
+        .testimonialchevron {
+            float:left !important;
+            font-size: 40px !important;
+            color:#eb9d00 !important;
+        }
+    .owl-theme .owl-nav{margin-top: 0px !important;
+        position: relative !important;
+        float: right !important;
+        top: -178px !important;
+        right: 93px !important;
+    }
+                }
+
+
+
+
+/* Landscape phones and smaller */
+@media (min-width:320px) and (max-width: 479px) {
+   .calculuslogo {
+            width:40%;
+        }
+        .calculusbtn {
+            margin:0px;
+        }
+      .carouselh3 {
+            font-size:10px !important;
+        }
+        .carouselp {
+            font-size:5px !important;
+        }
+    .carouselbtn {
+                background-color: #ffa00a !important;
+    padding: 1px 13px 1px 13px !important;
+    border: 1px solid #ffa00a !important;
+    border-radius: 7px !important;
+        font-size:10px !important;
+        }
+    .carousel-indicators{position:absolute;
+        bottom:-3px !important;
+        left:50% !important;
+        z-index:15 !important;
+        width:60% !important;
+        padding-left:0 !important;
+        margin-left:-30% !important;
+        text-align:center !important;
+        list-style:none !important;
+    }
+     .testimonialdata {
+            text-align: justify !important;
+            background-color: #F6F6F6 !important;
+        }
+        .testimonialchevron {
+            float:left !important;
+            font-size: 40px !important;
+            color:#eb9d00 !important;
+        }
+    .owl-theme .owl-nav{margin-top: 0px !important;
+        position: relative !important;
+        float: right !important;
+        top: -278px !important;
+        right: 41px !important;
+    }
+}
+
+
+
+@media (max-width: 320px) {
+ .calculuslogo {
+            width:40%;
+        }
+        .calculusbtn {
+            margin:0px;
+        }
+     .carouselh3 {
+            font-size:10px !important;
+        }
+        .carouselp {
+            font-size:5px !important;
+        }
+    .carouselbtn {
+                background-color: #ffa00a !important;
+    padding: 1px 13px 1px 13px !important;
+    border: 1px solid #ffa00a !important;
+    border-radius: 7px !important;
+        font-size:10px !important;
+        }
+    .carousel-indicators{position:absolute;
+        bottom:-3px !important;
+        left:50% !important;
+        z-index:15 !important;
+        width:60% !important;
+        padding-left:0 !important;
+        margin-left:-30% !important;
+        text-align:center !important;
+        list-style:none !important;
+    }
+
+}
+
+@media (min-width:360px) and (max-width: 640px) {
+ .calculuslogo {
+            width:40% !important;
+     margin-top:0px !important;
+     margin-left:10px !important;
+        }
+        .calculusbtn {
+            margin-top: -42px !important;
+    margin-right: 11px !important;
+        }
+}
+
